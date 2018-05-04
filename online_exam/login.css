@@ -1,0 +1,51 @@
+      body{
+            height:650px;
+             width:100%;
+            display:flex;
+            justify-content: center;
+            background-color:#808080;
+            margin-top:7rem;
+          }
+            .div1{
+                height:25rem;
+                width:30rem;
+                border:solid 4px #D2691E;
+                background-color: black;
+                border-radius:0.5rem;
+            }
+            .div1-1{
+                height:15%;
+                width:80%;
+                margin-left:2rem;
+                margin-top:1rem;
+                border:dashed 3px #D2691E;
+                border-radius:0.5rem;
+                background-color:black;
+                font-family: sans-serif;
+                color:darkgoldenrod;
+            }
+            .div1-2{
+                height:65%;
+                width:90%;
+                border: 3px #D2691E;
+                margin-top:2rem;
+                margin-left:1rem;
+        
+            }
+            form{
+                color:darkgoldenrod;
+            }
+            form input{
+                font-size:0.9rem;
+                border:dashed 2px #D2691E;
+                border-radius:0.5rem;
+                
+                
+            }
+            
+   form input[type="textbox"]{
+           font-size:20px;
+     }
+form input[type="password"]{
+    font-size:20px
+}        
